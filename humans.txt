@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Manjunath Rajashekaraiah     mgcvnrpj@gmail.com
 
 # THANKS
 
